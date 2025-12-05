@@ -1,55 +1,81 @@
-full_name: Jane Smith
-phone_number: 555-555-5555
-email_address: jane.smith@email.com
-headline: I have a passion for making resumes.
+full_name: Melanie Allen
+phone_number: 404-468-1620
+email_address: melanienallen@gmail.com
+headline: I'm a dynamic technical communications professional with 11 years experience in supporting the digital content goals of teams across industries. 
 skills_summary: 
-- Writing resumes.
-- Proficient with various markup formats.
-- Converting structured plain text documents into PDF.
+- Technical Documentation
+- Installation and Instruction Manuals
+- Business Communication
+- Product Marketing Materials
+- Information Design
+- Graphic Design
+- Instructional Design
+- Multimedia Production
+- Blogging and SEO Copywriting
+- Analytics
+- Open Source Software
+- Version Control
+- User Experience
+- Information Security
+- Research
+- Public Speaking
+- Remote Collaboration
+- Project Management
 
 tools_proficiency:
+- Linux, Mac, and Windows OS
+- Office Software (LibreOffice, Microsoft Office Suite)
+- Illustration Software (GIMP, Inkscape, Adobe Suite)
+- 3D Modelling Software (OpenSCAD, FreeCAD)
 - Markdown
-- HTML
-- CSS
-- pandoc
-- Neovim
-- tmux
-- GNU Make
-- wkhtmltopdf
+- HTML, CSS, JS
+- C
+- Python
+- vim
 - nunjucks
 
 professional_experience:
-- organization: Fantasy Resumes, Inc.
-  role_title: Resume Fairy
-  start_date: October 2016
-  end_date: Present
-  summary: Provide resumes that clients dream up under their pillows while they sleep. This involves deciphering each client’s dream with specialized tools and producing it for the client before she or he wakes. To accomplish this a template is used to convert structured plain text into a nice looking resume.
-- organization: Curriculum Vitae, LLC
-  role_title: Word Smith
-  start_date: July 2004 
-  end_date: October 2016
-  summary: Hammered out words to produce curriculum vitae for clients. Corrected errors detected by the typo snipers.
-- organization: Curriculum Vitae, LLC
-  role_title: Typo Sniper
-  start_date: July 2004
-  end_date: April 2010
-  summary: Analyzed the quality of curriculum vitae produced by the word smiths. Documents that contained errors and typos were sent back for corrections.
+- organization: Movius
+  role_title: Product Marketing Specialist
+  start_date: March 2020
+  end_date: March 2025
+  summary:  Managed the MultiLine Help Center and Sales Enablement Portal; created software documentation, digital marketing, and sales enablement materials. 
+- organization: US Tech Solutions
+  role_title: Technical Writer
+  start_date: February 2018
+  end_date: February 2020
+  summary: Created and maintained articles for the Google Fiber's CSM Knowledge Base which call center agents used to troubleshoot customers' internet connection or billing issues. 
 
 educational_experience:
-  - organization: Resume University 
-    start_date: September 2000 
-    end_date: August 2004 
-    cert_name: Bachelor’s degree in resume writing
-    summary: Graduated with honors
-  - organization: Plain Text High School 
-    start_date: September 1996
-    end_date: August 2000 
+  - organization: Southern Polytechnic State University
+    start_date: September 2007
+    end_date: August 2014 
+    cert_name: Bachelor of Science in Technical Communication with Concentration in Information Design
+    summary: The polytechnic experience provided me, in addition to practical communications courses for writing and content creation in a variety of business contexts, to courses in computer programming, engineering, and higher level mathematics. Extra curricular activities included Sting Newspaper, running a special interest club, and circus arts. 
+  - organization: Rockdale Magnet School for Science and Technology
+    start_date: September 2003
+    end_date: August 2007
     cert_name: Highschool diploma
-    summary: Graduated with 3.8 GPA
+    summary: The magnet school experience provided me with opportunities to take AP classes in science and history, higher level mathematics, research, computer science, and networking classes. Extra curricular activities included Marching Band, Clog Dance, Swim Team, and Math Team.
 
 volunteer_experience:
-- organization: Helping Kids
-  role_title: Mentor
+- organization: Mach 30
+  role_title: Technical Writer
+  start_date: March 2025
+  end_date: Present
+  summary: Developing documentation for YAML datastore.
+- organization: Tetra Bio
+  role_title: Presenter
+  start_date: September 2025
+  end_date: August 2025
+  summary: Presented PAPRA project at DEFCON. 
+- organization: BusKill
+  role_title: Developer
+  start_date: July 2020
+  end_date: Present
+  summary: Developed the 3D-printed magnetic release for USB-A. 
+- organization: Open Source Ecology
+  role_title: Developer
   start_date: July 2004
   end_date: April 2010
-  summary: Helped kids with writing their papers.
+  summary: Created Pen Plotter Documentation for the D3D Universal.   

@@ -7,8 +7,10 @@
   "packageManager": "npm",
   "workspaces": [
     "./packages/*",
-    "./packages/@*/*"
+    "./packages/@*/*"  
   ],
+  "homepage": "https://goldfishlaser.github.io/damac-resumes",
+  "repository": "https://github.com/goldfishlaser/damac-resumes.git",
   "m30pm": {
     "versionControlTool": "git",
     "buildTool": "gradle",
