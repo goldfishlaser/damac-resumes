@@ -1,7 +1,7 @@
 {
-  "name": "resume-model",
+  "name": "damac-resumes",
   "version": "0.1.0",
-  "description": "m30ml example project for rendering a resume",
+  "description": "Collection of personal resumes using DAMAC appraoch",
   "author": "Melanie Allen",
   "license": "CC-BY-4.0",
   "packageManager": "npm",
