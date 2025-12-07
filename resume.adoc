@@ -1,0 +1,91 @@
+ifndef::backend-pdf[]
+image:https://mirrors.creativecommons.org/presskit/icons/cc.svg[CC-BY-4.0] image:https://img.shields.io/badge/View%20on-GitHub-orange[View on GitHub, link=https://goldfishlaser.github.io/damac-resumes] 
+endif::[]
+
+== Melanie Allen
+
+[%hardbreaks]
+404-468-1620
+melanienallen@gmail.com
+
+I'm a dynamic technical communications professional with 11 years experience in supporting the digital content goals of teams across industries.
+
+
+.Tools Proficiency
+--
+- Linux, Mac, and Windows OS
+- Office Software (LibreOffice, Microsoft Office Suite)
+- Illustration Software (GIMP, Inkscape, Adobe Suite)
+- 3D Modelling Software (OpenSCAD, FreeCAD)
+- Markdown
+- HTML, CSS, JS
+- C
+- Python
+- vim
+- nunjucks
+--
+
+=== Professional Experience
+
+
+==== Movius | _March 2020 - March 2025_
+
+**Product Marketing Specialist**
+
+Managed the MultiLine Help Center and Sales Enablement Portal; created software documentation, digital marketing, and sales enablement materials.
+
+
+==== US Tech Solutions | _February 2018 - February 2020_
+
+**Technical Writer**
+
+Created and maintained articles for the Google Fiber's CSM Knowledge Base which call center agents used to troubleshoot customers' internet connection or billing issues.
+
+
+=== Education
+
+
+==== Southern Polytechnic State University | _September 2007 - August 2014_
+
+Bachelor of Science in Technical Communication with Concentration in Information Design
+
+The polytechnic experience provided me, in addition to practical communications courses for writing and content creation in a variety of business contexts, to courses in computer programming, engineering, and higher level mathematics. Extra curricular activities included Sting Newspaper, running a special interest club, and circus arts.
+
+
+==== Rockdale Magnet School for Science and Technology | _September 2003 - August 2007_
+
+Highschool diploma
+
+The magnet school experience provided me with opportunities to take AP classes in science and history, higher level mathematics, research, computer science, and networking classes. Extra curricular activities included Marching Band, Clog Dance, Swim Team, and Math Team.
+
+
+=== Volunteering
+
+
+==== Mach 30 | _March 2025 - Present_
+
+**Technical Writer**
+
+Developing documentation for YAML datastore.
+
+
+==== Tetra Bio | _September 2025 - August 2025_
+
+**Presenter**
+
+Presented PAPRA project at DEFCON.
+
+
+==== BusKill | _July 2020 - Present_
+
+**Developer**
+
+Developed the 3D-printed magnetic release for USB-A.
+
+
+==== Open Source Ecology | _July 2004 - April 2010_
+
+**Developer**
+
+Created Pen Plotter Documentation for the D3D Universal.
+

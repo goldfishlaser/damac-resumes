@@ -1,0 +1,102 @@
+name: damac-resumes
+version: 0.1.0
+description: Collection of personal resumes using DAMAC appraoch
+author: Melanie Allen
+license: CC-BY-4.0
+packageManager: npm
+workspaces:
+  - ./packages/*
+  - ./packages/@*/*
+homepage: https://goldfishlaser.github.io/damac-resumes
+repository: https://github.com/goldfishlaser/damac-resumes.git
+m30pm:
+  versionControlTool: git
+  buildTool: gradle
+  loggingLevel: error
+dependencies:
+  '@rse/nunjucks-cli': ^1.5.3
+scripts:
+  build: npm run clean && ./gradlew --offline build && cd build/ && asciidoctor resume.adoc -o index.html
+  clean: ./gradlew --offline clean
+  readme: nunjucks -d package.json views/README.md.njk > README.md
+full_name: Melanie Allen
+phone_number: 404-468-1620
+email_address: melanienallen@gmail.com
+headline: I'm a dynamic technical communications professional with 11 years experience in supporting the digital content goals of teams across industries. 
+skills_summary: 
+- Technical Documentation
+- Installation and Instruction Manuals
+- Business Communication
+- Product Marketing Materials
+- Information Design
+- Graphic Design
+- Instructional Design
+- Multimedia Production
+- Blogging and SEO Copywriting
+- Analytics
+- Open Source Software
+- Version Control
+- User Experience
+- Information Security
+- Research
+- Public Speaking
+- Remote Collaboration
+- Project Management
+
+tools_proficiency:
+- Linux, Mac, and Windows OS
+- Office Software (LibreOffice, Microsoft Office Suite)
+- Illustration Software (GIMP, Inkscape, Adobe Suite)
+- 3D Modelling Software (OpenSCAD, FreeCAD)
+- Markdown
+- HTML, CSS, JS
+- C
+- Python
+- vim
+- nunjucks
+
+professional_experience:
+- organization: Movius
+  role_title: Product Marketing Specialist
+  start_date: March 2020
+  end_date: March 2025
+  summary:  Managed the MultiLine Help Center and Sales Enablement Portal; created software documentation, digital marketing, and sales enablement materials. 
+- organization: US Tech Solutions
+  role_title: Technical Writer
+  start_date: February 2018
+  end_date: February 2020
+  summary: Created and maintained articles for the Google Fiber's CSM Knowledge Base which call center agents used to troubleshoot customers' internet connection or billing issues. 
+
+educational_experience:
+  - organization: Southern Polytechnic State University
+    start_date: September 2007
+    end_date: August 2014 
+    cert_name: Bachelor of Science in Technical Communication with Concentration in Information Design
+    summary: The polytechnic experience provided me, in addition to practical communications courses for writing and content creation in a variety of business contexts, to courses in computer programming, engineering, and higher level mathematics. Extra curricular activities included Sting Newspaper, running a special interest club, and circus arts. 
+  - organization: Rockdale Magnet School for Science and Technology
+    start_date: September 2003
+    end_date: August 2007
+    cert_name: Highschool diploma
+    summary: The magnet school experience provided me with opportunities to take AP classes in science and history, higher level mathematics, research, computer science, and networking classes. Extra curricular activities included Marching Band, Clog Dance, Swim Team, and Math Team.
+
+volunteer_experience:
+- organization: Mach 30
+  role_title: Technical Writer
+  start_date: March 2025
+  end_date: Present
+  summary: Developing documentation for YAML datastore.
+- organization: Tetra Bio
+  role_title: Presenter
+  start_date: September 2025
+  end_date: August 2025
+  summary: Presented PAPRA project at DEFCON. 
+- organization: BusKill
+  role_title: Developer
+  start_date: July 2020
+  end_date: Present
+  summary: Developed the 3D-printed magnetic release for USB-A. 
+- organization: Open Source Ecology
+  role_title: Developer
+  start_date: July 2004
+  end_date: April 2010
+  summary: Created Pen Plotter Documentation for the D3D Universal.   
