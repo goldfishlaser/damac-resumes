@@ -1,7 +1,7 @@
 full_name: Melanie Allen
 phone_number: 404-468-1620
 email_address: melanienallen@gmail.com
-headline: I'm a dynamic technical communications professional with 11 years experience in supporting the digital content goals of teams across industries. 
+headline: I'm a dynamic technical communications professional with 11 years experience in supporting the digital content goals of teams across industries. See my portfolio at https://mnallen.online.
 skills_summary: 
 - Technical Documentation
 - Installation and Instruction Manuals
@@ -39,12 +39,22 @@ professional_experience:
   role_title: Product Marketing Specialist
   start_date: March 2020
   end_date: March 2025
-  summary:  Managed the MultiLine Help Center and Sales Enablement Portal; created software documentation, digital marketing, and sales enablement materials. 
+  summary:  Managed the MultiLine Help Center and Sales Enablement Portal; created software documentation, digital marketing, and sales enablement materials. Led cross-functional Product Marketing calls between project managers and sales, marketing, and CSM leaders.
 - organization: US Tech Solutions
   role_title: Technical Writer
   start_date: February 2018
   end_date: February 2020
   summary: Created and maintained articles for the Google Fiber's CSM Knowledge Base which call center agents used to troubleshoot customers' internet connection or billing issues. 
+- organization: TOTO USA
+  role_title: Technical Writer  
+  start_date: April 2010 
+  end_date: October 2016
+  summary: Created and managed installation manuals and spare part sheets for TOTO USA's complete product line using Adobe InDesign and Illustrator, working independently through the MDR process to gather technical information through engineer interviews and product demonstrations. Developed a company style guide, maintained spare parts data in Microsoft Access database, and consistently delivered projects on schedule while collaborating with cross-functional teams to implement engineering changes across all documentation.
+- organization: Southern Polytechnic State University
+  role_title: Instructional Designer 
+  start_date: Aug 2012
+  end_date: Aug 2013
+  summary: Worked on a team creating offline help documentation and material for workshops that taught SPSU faculty how to transition their online and face to face courses to the Desire2Learn LMS system. Helped with the development of a new Teaching Academy for Distance Learning course that provided "online teaching concepts, pedagogy, tools training [including GeorgiaVIEW Desire2Learn (D2L), Wimba, Respondus, Turnitin, Ensemble, etc.] and individualized assistance with course development/revision".
 
 educational_experience:
   - organization: Southern Polytechnic State University
@@ -57,6 +67,22 @@ educational_experience:
     end_date: August 2007
     cert_name: Highschool diploma
     summary: The magnet school experience provided me with opportunities to take AP classes in science and history, higher level mathematics, research, computer science, and networking classes. Extra curricular activities included Marching Band, Clog Dance, Swim Team, and Math Team.
+  - organization: DeepLearning.Ai via Coursera* 
+    start_date: 2019 
+    cert_name: Neural Networks and Deep Learning and Coursera
+    summary: I took this online course to equip myself with the knowledge of how neural networks and deep learning software works. 
+  - organization: Product Marketing Alliance
+    start_date: 2023 
+    cert_name: Product Marketing Certified Core
+    summary: I took this online course to equip myself with the knowledge of how to perform the Product Marketing role in an organization. 
+  - organization: Google via Coursera*  
+    start_date: 2024 
+    cert_name: Foundations of Cybersecurity
+    summary: I took this course to prove competencies in cybersecurity to enhance my ability to work with cybersecurity teams.
+  - organization: NVIDIA via Coursera
+    start_date: 2025 
+    cert_name: Introduction to Networking
+    summary: I took this course to prove competencies in networking to enhance my ability to work with networking teams. 
 
 volunteer_experience:
 - organization: Mach 30
