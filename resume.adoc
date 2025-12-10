@@ -8,7 +8,7 @@ endif::[]
 404-468-1620
 melanienallen@gmail.com
 
-I'm a dynamic technical communications professional with 11 years experience in supporting the digital content goals of teams across industries.
+I'm a dynamic technical communications professional with 11 years experience in supporting the digital content goals of teams across industries. See my portfolio at https://mnallen.online.
 
 
 .Tools Proficiency
@@ -32,7 +32,7 @@ I'm a dynamic technical communications professional with 11 years experience in 
 
 **Product Marketing Specialist**
 
-Managed the MultiLine Help Center and Sales Enablement Portal; created software documentation, digital marketing, and sales enablement materials.
+Managed the MultiLine Help Center and Sales Enablement Portal; created software documentation, digital marketing, and sales enablement materials. Led cross-functional Product Marketing calls between project managers and sales, marketing, and CSM leaders.
 
 
 ==== US Tech Solutions | _February 2018 - February 2020_
@@ -40,6 +40,20 @@ Managed the MultiLine Help Center and Sales Enablement Portal; created software 
 **Technical Writer**
 
 Created and maintained articles for the Google Fiber's CSM Knowledge Base which call center agents used to troubleshoot customers' internet connection or billing issues.
+
+
+==== TOTO USA | _April 2010 - October 2016_
+
+**Technical Writer**
+
+Created and managed installation manuals and spare part sheets for TOTO USA's complete product line using Adobe InDesign and Illustrator, working independently through the MDR process to gather technical information through engineer interviews and product demonstrations. Developed a company style guide, maintained spare parts data in Microsoft Access database, and consistently delivered projects on schedule while collaborating with cross-functional teams to implement engineering changes across all documentation.
+
+
+==== Southern Polytechnic State University | _Aug 2012 - Aug 2013_
+
+**Instructional Designer**
+
+Worked on a team creating offline help documentation and material for workshops that taught SPSU faculty how to transition their online and face to face courses to the Desire2Learn LMS system. Helped with the development of a new Teaching Academy for Distance Learning course that provided "online teaching concepts, pedagogy, tools training [including GeorgiaVIEW Desire2Learn (D2L), Wimba, Respondus, Turnitin, Ensemble, etc.] and individualized assistance with course development/revision".
 
 
 === Education
@@ -57,6 +71,34 @@ The polytechnic experience provided me, in addition to practical communications 
 Highschool diploma
 
 The magnet school experience provided me with opportunities to take AP classes in science and history, higher level mathematics, research, computer science, and networking classes. Extra curricular activities included Marching Band, Clog Dance, Swim Team, and Math Team.
+
+
+==== DeepLearning.Ai via Coursera* | _2019 - _
+
+Neural Networks and Deep Learning and Coursera
+
+I took this online course to equip myself with the knowledge of how neural networks and deep learning software works.
+
+
+==== Product Marketing Alliance | _2023 - _
+
+Product Marketing Certified Core
+
+I took this online course to equip myself with the knowledge of how to perform the Product Marketing role in an organization.
+
+
+==== Google via Coursera* | _2024 - _
+
+Foundations of Cybersecurity
+
+I took this course to prove competencies in cybersecurity to enhance my ability to work with cybersecurity teams.
+
+
+==== NVIDIA via Coursera | _2025 - _
+
+Introduction to Networking
+
+I took this course to prove competencies in networking to enhance my ability to work with networking teams.
 
 
 === Volunteering
