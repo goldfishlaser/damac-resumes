@@ -68,19 +68,19 @@ educational_experience:
     cert_name: Highschool diploma
     summary: The magnet school experience provided me with opportunities to take AP classes in science and history, higher level mathematics, research, computer science, and networking classes. Extra curricular activities included Marching Band, Clog Dance, Swim Team, and Math Team.
   - organization: DeepLearning.Ai via Coursera* 
-    start_date: 2019 
+    start_date: "2019" 
     cert_name: Neural Networks and Deep Learning and Coursera
     summary: I took this online course to equip myself with the knowledge of how neural networks and deep learning software works. 
   - organization: Product Marketing Alliance
-    start_date: 2023 
+    start_date: "2023" 
     cert_name: Product Marketing Certified Core
     summary: I took this online course to equip myself with the knowledge of how to perform the Product Marketing role in an organization. 
   - organization: Google via Coursera*  
-    start_date: 2024 
+    start_date: "2024" 
     cert_name: Foundations of Cybersecurity
     summary: I took this course to prove competencies in cybersecurity to enhance my ability to work with cybersecurity teams.
   - organization: NVIDIA via Coursera
-    start_date: 2025 
+    start_date: "2025"
     cert_name: Introduction to Networking
     summary: I took this course to prove competencies in networking to enhance my ability to work with networking teams. 
 
