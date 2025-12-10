@@ -479,6 +479,6 @@ classes:
     class_uri: https://w3id.org/linkml/examples/personinfo/VolunteerExperience
 metamodel_version: 1.7.0
 source_file: resume-schema.yaml
-source_file_date: '2025-12-10T04:18:02'
+source_file_date: '2025-12-10T04:22:16'
 source_file_size: 2295
-generation_date: '2025-12-10T04:18:54'
+generation_date: '2025-12-10T04:23:07'
